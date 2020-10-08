@@ -1,3 +1,2 @@
-// This is just to show the changes 2
-// vamos a volver a cambiar esto
-console.log("hello world !! Here we are :-) \n");
+// TODO: desarrollar un sistema completo
+console.log("Hola mundo, desde node js:-) \n");
